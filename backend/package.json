@@ -1,0 +1,11 @@
+{
+	"name": "backend",
+	"version": "1.0.0",
+	"description": "M.E.R.N. stack is used for this Project",
+	"main": "index.js",
+	"scripts": {
+		"test": "node index.js"
+	},
+	"author": "Nisha ji Rawat",
+	"license": "ISC"
+}
