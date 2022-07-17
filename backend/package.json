@@ -6,6 +6,9 @@
 	"scripts": {
 		"test": "node index.js"
 	},
-	"author": "Nisha ji Rawat",
-	"license": "ISC"
+	"author": "Nisha Rawat",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.18.1"
+	}
 }
