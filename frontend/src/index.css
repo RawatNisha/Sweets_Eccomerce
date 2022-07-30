@@ -1,3 +1,5 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css');
+
 
 *{
     margin: 0;
@@ -6,9 +8,19 @@
     list-style: none;
     text-decoration: none;
     transition: all 0.2s;
+    color: inherit;
+    /* outline: none; */
 }
 
 
 a,button,label,span {
     cursor: pointer;
 }
+
+
+a:visited{
+    color: inherit;
+}
+
+
+
